@@ -1,0 +1,17 @@
+{
+  "name": "bymyself",
+  "version": "1.0.0",
+  "description": "trying to do by myself",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "node index.js",
+    "dev": " nodemon index.js"
+  },
+  "author": "akshai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27",
+    "nodemon": "^2.0.4"
+  }
+}
